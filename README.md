@@ -48,17 +48,20 @@ This is a **not** an exhaustive list of implemented features.
 
 ## External Content References
 
+- A* Pathfinding:
+https://arongranberg.com/astar/
+
 - Pixel Adventure 1:
 https://assetstore.unity.com/packages/2d/characters/pixel-adventure-1-155360
 
 - Clouds:
 https://latenightcoffe.itch.io/2d-pixel-art-semi-realistic-clouds
 
-- CineMachine:
-Unity Package
-
 - Background Music:
 https://www.fesliyanstudios.com/royalty-free-music/downloads-c/8-bit-music/6
 
 - Sound Effects:
 https://pixabay.com/sound-effects/search/8-bit/
+
+- CineMachine:
+Built-in Unity Package
